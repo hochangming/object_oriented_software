@@ -1,0 +1,37 @@
+### List of shapes ###
+	Background
+		Size: (640, 240)
+	Circle
+		Center: (100, 150)
+		Coordinates: (100, 150, 15)
+		Color: (0, 200, 0)
+	Pixel
+		Coordinates: (95, 150)
+		Color: (100, 0, 0)
+	Pixel
+		Coordinates: (105, 150)
+		Color: (100, 0, 0)
+	Regular polygon
+		Pivot: (100, 50)
+		Point[0]: (110, 50)
+		Point[1]: (105, 59)
+		Point[2]: (95, 59)
+		Point[3]: (90, 50)
+		Point[4]: (95, 41)
+		Point[5]: (105, 41)
+		Color: (200, 0, 200)
+	Triangle
+		Pivot: (100, 122)
+		Point[0]: (100, 135)
+		Point[1]: (70, 115)
+		Point[2]: (130, 115)
+		Color: (200, 200, 0)
+	Polygon
+		Pivot: (100, 80)
+		Point[0]: (85, 115)
+		Point[1]: (90, 60)
+		Point[2]: (100, 50)
+		Point[3]: (110, 60)
+		Point[4]: (115, 115)
+		Color: (0, 200, 200)
+###
